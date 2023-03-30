@@ -1,6 +1,6 @@
 
 import streamlit
-import smowflake.connector
+import snowflake.connector
 
 streamlit.title("My new pizza")
 streamlit.header('Breakfast Menu')
